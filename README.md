@@ -1,17 +1,17 @@
 ## Olá, 👋
 . Vamos construir algo incrível juntos? Sinta-se à vontade para explorar meus repositórios e entrar em contato! 🚀 
 
-🚀 Sobre mim
+🚀 **Sobre mim**
 Sou um entusiasta de tecnologia, apaixonado por desenvolvimento de software e sempre buscando aprimorar minhas habilidades em programação e design de sistemas. Atualmente, estou focado no desenvolvimento full stack e em expandir meus conhecimentos em tecnologias para internet.
 
-- 💬 SENAI-SP / Programação Full Stack
+- 💬 **SENAI-SP** - Programação Full Stack
       Setembro de 2023/ Novembro 2024 - Curso EAD (Concluído)
-- 📫 Instituto Federal do Piauí (IFPI) / Curso Técnico em Desenvolvimento de Sistemas
+- 📫 **IFPI** - Instituto Federal do Piauí - Curso Técnico em Desenvolvimento de Sistemas
       Agosto de 2023 - Em andamento, São Raimundo Nonato – PI/ Curso transferido para Floriano
-- 😄 PUC-MG (Pontifícia Universidade Católica de Minas Gerais)                  
+- 😄 **PUC-MG** - Pontifícia Universidade Católica de Minas Gerais                  
       Graduando Tecnologia em Sistemas para Internet
       Fevereiro de 2023 - Em andamento, Curso EAD / Cursando 5º Período
-- ⚡ Fun fact: ...
+- ⚡ 
 
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/celsothe/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/celso.the/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/celsonunessoares/) 
