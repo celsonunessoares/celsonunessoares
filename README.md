@@ -2,14 +2,23 @@
 . Vamos construir algo incrível juntos? Sinta-se à vontade para explorar meus repositórios e entrar em contato! 🚀 
 
 <--
-**celsonunessoares/celsonunessoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mim
+Sou um entusiasta de tecnologia, apaixonado por desenvolvimento de software e sempre buscando aprimorar minhas habilidades em programação e design de sistemas. Atualmente, estou focado no desenvolvimento full stack e em expandir meus conhecimentos em tecnologias para internet.
 
-Here are some ideas to get you started:
+📚 Formação Acadêmica
+🔭 SENAI-SP
+Programação Full Stack
+Setembro de 2023 a Novembro de 2024 (Concluído)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+🌱 Instituto Federal do Piauí (IFPI)
+Curso Técnico em Desenvolvimento de Sistemas
+Agosto de 2023 - Em andamento
+Local: São Raimundo Nonato – PI (Transferido para Floriano-PI)
+
+🤔 PUC-MG (Pontifícia Universidade Católica de Minas Gerais)
+Tecnologia em Sistemas para Internet
+Fevereiro de 2023 - Em andamento (5º Período)
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
