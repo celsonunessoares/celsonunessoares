@@ -1,8 +1,7 @@
 ## Olá, 👋
 . Vamos construir algo incrível juntos? Sinta-se à vontade para explorar meus repositórios e entrar em contato! 🚀 
 
-🚀 **Sobre mim**
-Sou um entusiasta de tecnologia, apaixonado por desenvolvimento de software e sempre buscando aprimorar minhas habilidades em programação e design de sistemas. Atualmente, estou focado no desenvolvimento full stack e em expandir meus conhecimentos em tecnologias para internet.
+🚀 Sou um entusiasta de tecnologia, apaixonado por desenvolvimento de software e sempre buscando aprimorar minhas habilidades em programação e design de sistemas. Atualmente, estou focado no desenvolvimento full stack e em expandir meus conhecimentos em tecnologias para internet.
 
 - 💬 **SENAI-SP** - Programação Full Stack
       Setembro de 2023/ Novembro 2024 - Curso EAD (Concluído)
