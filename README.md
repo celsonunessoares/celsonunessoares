@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Olá, 👋
+Me chamo Cels Nunes, um desenvolvedor de software apaixonado por qualidade e boas práticas de desenvolvimento. 🚀
+🌟 Vamos construir algo incrível juntos? Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 <!--
 **celsonunessoares/celsonunessoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
