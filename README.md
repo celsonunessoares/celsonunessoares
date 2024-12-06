@@ -1,6 +1,9 @@
 ## Olá, 👋
-Sou um desenvolvedor de software apaixonado por qualidade e boas práticas de desenvolvimento.🚀
-🌟 Vamos construir algo incrível juntos? Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+Sou um desenvolvedor de software apaixonado por qualidade e boas práticas de desenvolvimento.🚀🌟 Vamos construir algo incrível juntos? Sinta-se à vontade para explorar meus repositórios e entrar em contato! 
+. Programação Full Stack (SENAI-SP) - Concluído
+. Técnico Desenvolvimento de Sistemas (IFPI) - Cursando 
+. Tecnologia em Sistemas Internet (PUC-MG) - Cursando 
+
 <!--
 **celsonunessoares/celsonunessoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
