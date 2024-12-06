@@ -5,20 +5,13 @@
 🚀 Sobre mim
 Sou um entusiasta de tecnologia, apaixonado por desenvolvimento de software e sempre buscando aprimorar minhas habilidades em programação e design de sistemas. Atualmente, estou focado no desenvolvimento full stack e em expandir meus conhecimentos em tecnologias para internet.
 
-📚 Formação Acadêmica
-🔭 SENAI-SP
-Programação Full Stack
-Setembro de 2023 a Novembro de 2024 (Concluído)
-
-🌱 Instituto Federal do Piauí (IFPI)
-Curso Técnico em Desenvolvimento de Sistemas
-Agosto de 2023 - Em andamento
-Local: São Raimundo Nonato – PI (Transferido para Floriano-PI)
-
-🤔 PUC-MG (Pontifícia Universidade Católica de Minas Gerais)
-Tecnologia em Sistemas para Internet
-Fevereiro de 2023 - Em andamento (5º Período)
-
+📚 SENAI-SP / Programação Full Stack
+    Setembro de 2023/ Novembro 2024 - Curso EAD (Concluído)
+🌱 Instituto Federal do Piauí (IFPI) / Curso Técnico em Desenvolvimento de Sistemas
+    Agosto de 2023 - Em andamento, São Raimundo Nonato – PI/ Curso transferido para Floriano
+🤔 PUC-MG (Pontifícia Universidade Católica de Minas Gerais)                  
+    Graduando Tecnologia em Sistemas para Internet
+    Fevereiro de 2023 - Em andamento, Curso EAD / Cursando 5º Período
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
